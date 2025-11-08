@@ -17,13 +17,11 @@ void mkdir(char pathName[]){
 
 //handles tokenizing and absolute/relative pathing options
 struct NODE* splitPath(char* pathName, char* baseName, char* dirName){
+    printf(pathName);
+    printf(baseName);
+    printf(dirName);
 
-    // TO BE IMPLEMENTED
-    // NOTE THAT WITHOUT COMPLETING THIS FUNCTION CORRECTLY
-    // rm, rmdir, ls, cd, touch COMMANDS WILL NOT EXECUTE CORRECTLY
-    // SEE THE PROVIDED SOLUTION EXECUTABLE TO SEE THEIR EXPECTED BEHAVIOR
 
-    // YOUR CODE HERE
-    //
+
     return NULL;
 }

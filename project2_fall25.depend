@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1762484191 source:c:\users\bobsu\onedrive\documents\github\project2_fall25\main.c
+	"types.h"
+
+1762484191 c:\users\bobsu\onedrive\documents\github\project2_fall25\types.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1762577489 source:c:\users\bobsu\onedrive\documents\github\project2_fall25\mkdirsplitpath.c
+	"types.h"
+
