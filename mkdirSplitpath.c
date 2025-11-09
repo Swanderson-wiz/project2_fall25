@@ -71,7 +71,6 @@ struct NODE* splitPath(char* pathName, char* baseName, char* dirName){
     // rm, rmdir, ls, cd, touch COMMANDS WILL NOT EXECUTE CORRECTLY
     // SEE THE PROVIDED SOLUTION EXECUTABLE TO SEE THEIR EXPECTED BEHAVIOR
     	
-	printf("Running splitPath\n");
 
 	char tempPath[256];
  	char traversePath[256];
